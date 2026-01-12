@@ -38,6 +38,9 @@ A aula contempla, entre outros, os seguintes temas:
 - **Guia do Apresentador (.docx)**  
   Documento de apoio com o texto-base para condução da aula, servindo como guia para o instrutor.
 
+- **Vídeo de Apresentação do Projeto**  
+  Vídeo explicativo de curta duração, no qual eu apresento o contexto, os objetivos e a motivação do projeto, desenvolvido como parte da atividade extensionista.
+
 ---
 
 ## 👥 Público-Alvo
